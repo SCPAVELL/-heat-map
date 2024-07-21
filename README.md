@@ -1,1 +1,1 @@
-# -heat-map
+# heat-map
